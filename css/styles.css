@@ -329,10 +329,8 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-
   height: 40px;
   width: 40px;
-  padding: 12px;
   margin-top: 8px;
   border-radius: 50%;
   background-color: #4d5ae5;
@@ -490,10 +488,8 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-
   height: 40px;
   width: 40px;
-  padding: 12px;
   margin-top: 8px;
   border-radius: 50%;
   background-color: #4d5ae5;
