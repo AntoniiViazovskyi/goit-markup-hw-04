@@ -447,7 +447,8 @@ a:focus {
   text-align: start;
 }
 .footer-logo {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   max-width: 115px;
 }
 
