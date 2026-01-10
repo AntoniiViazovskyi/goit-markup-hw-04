@@ -1,4 +1,4 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
 GoIT Fullstack course. Third homework related to the CSS decoration effects
 
