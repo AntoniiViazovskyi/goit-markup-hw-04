@@ -71,6 +71,7 @@ h3 {
 .text-logo {
   display: flex;
   align-items: center;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
@@ -446,8 +447,7 @@ a:focus {
   text-align: start;
 }
 .footer-logo {
-  display: flex;
-  align-items: center;
+  display: inline-block;
   max-width: 115px;
 }
 
